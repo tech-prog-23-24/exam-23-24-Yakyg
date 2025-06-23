@@ -1,0 +1,14 @@
+# build and temporary files
+*.exe
+*.o
+*.obj
+*.moc
+*.user
+Makefile
+qrc_*
+moc_*
+build/
+debug/
+release/
+*.pro.user
+*.qmake.stash
